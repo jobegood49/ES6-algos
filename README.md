@@ -1,19 +1,7 @@
 ES6 Algorithms
-
-## Introduction
-
-We've taken a look at some of the basic and more advanced features of ES6 in JavaScript. One of the biggest challenges you're going to face going forward is using these new features in the appropriate places.
-
-The easiest way to begin recognizing these patterns is refactoring code that is written in ES5 into ES6.
-
-In this pair-programming challenge, you're going to have snippets of ES5 code. What you will do is refactor this code into the new ES6 standard.
-
-
 ## Refactoring Process
 
-Refactoring is hard. It's difficult to fix or update code without accidentally modifying how it works, or breaking some other piece of code that depends on it.
-
-So, what we've done is set up a `test suite` in [mocha](https://mochajs.org/) to make sure you don't break anything.
+a `test suite` in [mocha](https://mochajs.org/) to make sure you don't break anything.
 
 <img src="https://i.imgur.com/jVN0xBn.png" width="300px">
 
@@ -223,6 +211,3 @@ sequence.decodeSequence("2a3b2c");
 - `const / let`
 - `array destructuring`
 <!-- ::: -->
-
-
-Happy Coding!

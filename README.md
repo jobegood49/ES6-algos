@@ -1,6 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-# PP | ES6 Algorithms
+ES6 Algorithms
 
 ## Introduction
 
